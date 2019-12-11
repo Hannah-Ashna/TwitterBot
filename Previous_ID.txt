@@ -1,1 +1,1 @@
-
+# When the bot is run for the first time a numeric value will be saved here. Please remove this text before running!
