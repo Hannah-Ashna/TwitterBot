@@ -21,10 +21,10 @@ AuthStatus = False
 
 # Authentication process in order to access the twitter account @Spoopy_B0t
 # Access Tokens for the Accounts
-auth = tweepy.OAuthHandler("OLb7iWctBTqUdZLRcbl4Rjppa", 
-    "alsLrXDib4LKLQQMhigmOn8b3Rmwd0LE6AfFuv4ZrXAvDHDQt4")
-auth.set_access_token("1182357590426243073-9fyXXcyEEdEoJEQ8LtSxOzEqoCaYCA", 
-    "2AyABhOeBEfLmkdO7DJLVzAoqAEpSwuIFuRWEaLBrvQR5")
+auth = tweepy.OAuthHandler(, 
+    )
+auth.set_access_token(, 
+    )
 
 api = tweepy.API(auth)
 
